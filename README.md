@@ -1,3 +1,3 @@
 # BSPTricollMeshExport
 
-usage BSPTricollMeshExport.exe <pathToBSP> <maskForCollisionFlag> <exportPath>
+usage: "BSPTricollMeshExport.exe \[pathToBSP] \[maskForCollisionFlag] \[exportPath]"
