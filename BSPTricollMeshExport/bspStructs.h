@@ -101,6 +101,9 @@ struct bspCollision {
     Tricoll_Tri* tricollTris;
     uint32_t primitiveCount;
     dcollbrush_t* brushes;
+    dtexdata_t* texData;
+    const char* texDataStringData;
+    uint32_t* texDataStringTable;
 	
 };
 
